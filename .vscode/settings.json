@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "core_cm4.h": "c",
+        "stm32f4xx.h": "c"
+    }
+}
